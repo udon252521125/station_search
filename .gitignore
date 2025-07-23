@@ -1,0 +1,25 @@
+# 仮想環境
+.venv/
+venv/
+env/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEファイル
+.vscode/
+.idea/
+
+# 一時ファイル
+*.tmp
+*.log
+
+# OS固有ファイル
+Thumbs.db
+.DS_Store
+
+# 個人的なメモファイル
+memo.txt
+notes.md
